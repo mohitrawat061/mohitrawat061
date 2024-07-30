@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/mohitrawat061/achievements?format=svg&limit=3" width="350" />
+</p>
 <!--
 **mohitrawat061/mohitrawat061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
