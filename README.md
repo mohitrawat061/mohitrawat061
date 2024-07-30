@@ -2,11 +2,11 @@
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/mohitrawat061/achievements?format=svg&limit=3" width="350" />
 </p>
-<p>
+<!-- <p>
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/{{github_username}}/contributions?format=svg" width="350" title="Includes public contributions"/>
     </a>
-</p>
+</p> -->
 <!-- [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/mohitrawat061/badges/community)](https://community.vaunt.dev/board/mohitrawat061) -->
 </p>    
 <a href="https://vaunt.dev/">
