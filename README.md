@@ -6,7 +6,7 @@
 <h3 align="center">Fullstack Developer • AI Explorer • Security Buff</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Crafting+Code+%F0%9F%92%BB+that+Talks+to+Reality!;React.js+%7C+FastAPI+%7C+YOLO+%7C+Spring+Boot+%7C+DGL;Hackathon+Winner+%7C+2109+LeetCode+Knight;Let%E2%80%99s+Build+the+Future+Together!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Crafting+Code+%F0%9F%92%BB+that+Talks+to+Reality!;React.js+%7C+FastAPI+%7C+%7C+Spring+Boot+%7C+DGL;Hackathon+Winner+%7C+2109+LeetCode+Knight;Let%E2%80%99s+Build+the+Future+Together!+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
