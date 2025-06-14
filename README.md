@@ -1,13 +1,4 @@
 
-## Hi there 👋
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/mohitrawat061/achievements?format=svg&limit=3" width="350" />
-</p>
-
-<a href="https://vaunt.dev/">
-  <img src="https://api.vaunt.dev/v1/github/entities/mohitrawat061/contributions?format=svg" width="350" />
-</a>
-
 <h1 align="center">
   🚦 Mohit Singh Rawat
 </h1>
@@ -16,6 +7,16 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Crafting+Code+%F0%9F%92%BB+that+Talks+to+Reality!;React.js+%7C+FastAPI+%7C+YOLO+%7C+Spring+Boot+%7C+DGL;Hackathon+Winner+%7C+2109+LeetCode+Knight;Let%E2%80%99s+Build+the+Future+Together!+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://api.vaunt.dev/v1/github/entities/mohitrawat061/achievements?format=svg&limit=3" width="350" />
+</p>
+
+<p align="center">
+  <a href="https://vaunt.dev/">
+    <img src="https://api.vaunt.dev/v1/github/entities/mohitrawat061/contributions?format=svg" width="350" />
+  </a>
 </p>
 
 ---
